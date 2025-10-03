@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mobile Repair Hub - Apple Repairs</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: linear-gradient(90deg, #007BFF, #00A2FF);
+            color: white;
+            padding: 60px 20px 40px 20px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        header p {
+            font-size: 1.2em;
+            margin-top: 10px;
+        }
+        nav ul {
+            list-style: none;
+            display: flex;
+            justify-content: center;
+            padding: 0;
+            margin-top: 20px;
+        }
+        nav li {
+            margin: 0 15px;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            max-width: 900px;
+            margin: auto;
+        }
+        h2, h3, h4 {
+            color: #007BFF;
+        }
+        ol {
+            margin-left: 20px;
+        }
+        .ad-placeholder {
+            background-color: #f9f9f9;
+            color: #666;
+            text-align: center;
+            padding: 15px;
+            margin: 20px 0;
+            border: 2px dashed #ccc;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #f1f1f1;
+        }
+    </style>
+</head>
+<body>
+    <!-- Hero Header -->
+    <header>
+        <h1>Mobile Repair Hub</h1>
+        <p>Step-by-Step Apple Repairs Made Easy</p>
+        <nav>
+            <ul>
+                <li><a href="#apple">Apple Repairs</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Apple Section -->
+    <section id="apple">
+        <h2>Apple Repair Guides</h2>
+        <p>Welcome! We’ve just started our website. We will keep adding more repair guides for Apple devices in future updates. Stay tuned!</p>
+
+        <!-- iPhone 16 Mini -->
+        <h3>iPhone 16 Mini Repair Guide (Screen & Battery)</h3>
+        <div class="ad-placeholder">Ad Placeholder</div>
+
+        <h4>Screen Repair</h4>
+        <p><strong>Tools Needed:</strong> Pentalobe screwdriver, Y000 screwdriver, suction cup, spudger, tweezers, new screen.</p>
+        <ol>
+            <li>Power off the phone completely.</li>
+            <li>Remove the two bottom screws near the Lightning port.</li>
+            <li>Place the suction cup near the bottom, gently lift the screen while using the spudger to release clips.</li>
+            <li>Open the phone like a book (hinge on the side).</li>
+            <li>Disconnect the battery connector first.</li>
+            <li>Disconnect screen connectors (usually 2–3 flat cables).</li>
+            <li>Transfer front camera, Face ID, and earpiece from old screen if needed.</li>
+            <li>Connect the new screen carefully.</li>
+            <li>Reconnect the battery.</li>
+            <li>Test the screen before sealing.</li>
+            <li>Close the phone and secure screws.</li>
+        </ol>
+        <div class="ad-placeholder">Ad Placeholder</div>
+
+        <h4>Battery Replacement</h4>
+        <p><strong>Tools Needed:</strong> Same as above + adhesive strips.</p>
+        <ol>
+            <li>Power off the phone.</li>
+            <li>Open the screen (same steps as above).</li>
+            <li>Disconnect the battery connector first.</li>
+            <li>Remove screws and bracket holding the battery.</li>
+            <li>Gently lift the battery using spudger or adhesive pull tabs.</li>
+            <li>Place new battery with adhesive strips.</li>
+            <li>Reconnect the battery connector.</li>
+            <li>Test the phone.</li>
+            <li>Close the screen and secure screws.</li>
+        </ol>
+        <p><em>Mini has tiny space, so cables are fragile. Don’t force anything.</em></p>
+        <div class="ad-placeholder">Ad Placeholder</div>
+
+        <!-- iPhone 16 & 16 Pro -->
+        <h3>iPhone 16 & 16 Pro Repair Guide (Screen & Battery)</h3>
+        <div class="ad-placeholder">Ad Placeholder</div>
+
+        <h4>Screen Repair</h4>
+        <p>Tools and steps are the same as the Mini, but the screen is larger. Pro models have an extra LiDAR scanner cable—disconnect carefully. Front camera and Face ID sensors must be transferred to the new screen.</p>
+
+        <h4>Battery Replacement</h4>
+        <p>The battery is larger than the Mini, same procedure. The battery may be slightly curved, remove slowly. Pro battery connector may have extra shielding screws—keep track of them carefully.</p>
+        <div class="ad-placeholder">Ad Placeholder</div>
+
+        <!-- iPhone 16 Pro Max -->
+        <h3>iPhone 16 Pro Max Repair Guide (Screen & Battery)</h3>
+        <div class="ad-placeholder">Ad Placeholder</div>
+
+        <h4>Screen Repair</h4>
+        <p>General steps are the same. This is the largest screen, so take extra care with flex cables. LiDAR sensor and Pro cameras are delicate—do not bend connectors. Front assembly transfer same as Pro.</p>
+
+        <h4>Battery Replacement</h4>
+        <p>This is the biggest battery. Use the same adhesive method. Extra caution with internal screws, as there are more than in smaller models.</p>
+        <div class="ad-placeholder">Ad Placeholder</div>
+
+        <!-- Tips for All iPhone 16 Models -->
+        <h3>Tips for All iPhone 16 Models</h3>
+        <ol>
+            <li>Always disconnect the battery first to avoid shorting.</li>
+            <li>Keep screws organized; different screws have different lengths.</li>
+            <li>Test everything before sealing.</li>
+            <li>Use plastic tools to avoid scratching internals.</li>
+            <li>Genuine parts are safer; aftermarket parts are cheaper but may cause errors.</li>
+            <li>Take pictures while opening the phone in case you forget placement.</li>
+        </ol>
+        <div class="ad-placeholder">Ad Placeholder</div>
+
+        <p>More Apple models and repair guides will be added soon. Thank you for visiting!</p>
+    </section>
+
+    <!-- Footer -->
+    <footer>
+        <p>&copy; 2025 Mobile Repair Hub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
